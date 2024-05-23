@@ -1,0 +1,17 @@
+/* styles.css */
+.countdown-timer {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.countdown-timer svg path {
+    stroke: #004777; /* Stroke color */
+}
+
+.timer-text {
+    fill: #ffffff; /* Text color */
+    color: #ffffff; /* Ensure text color is white */
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
